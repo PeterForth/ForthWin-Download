@@ -1,7 +1,9 @@
 # ForthWin-Download
 
-This is a quick installer , it will create a  C:\FORTHW   folder  or you can specify another
-drive  , like  D:\FORTHW.
+The quick installer was disclosed, proceed to install manually. 
+
+Unzip the folder ForthWin.zip   and copy the Forthwin  folder to  C:\   folder  or you can specify another
+drive  , like  D:\FORTHWIN
 
 After that  follow this instructions to load the Demos.
 
@@ -11,13 +13,15 @@ https://sites.google.com/view/forthwin/first-steps1
 More files to try   :  https://github.com/ForthWin/ForthWinUsersGroup
 
 
-After that , please send us  your   toughts, critics and development participation, 
+Send us  your  toughts, ideas, and sign to our group for development participation, 
 
-all is welcome. We need programmers, code snippets in Forth, manual writers, for short step by step guides
+We need from full forth programms, to code snippets in Forth. Development participation or
 
-introductions to forth, implementing other language interfaces to forth, make videos of yours programs running
+help in manual writing or  step by step guides are always welcome.
 
-on ForthWin, etc.
+Introductions to forth, implementing in other languages interfaces to forth, ow if you have videos of yours 
+
+programs running  on ForthWin.
 
 
 ForthWin is a team work 
