@@ -27,8 +27,8 @@ Introductions to forth, implementing in other languages interfaces to forth, or 
 programs running  on ForthWin.
 
 
-ForthWin is a team work 
-=======================
+Forth2020 is a team work 
+========================
 
 Everybody that loves Forth programming  should  join us and work together  to
 
