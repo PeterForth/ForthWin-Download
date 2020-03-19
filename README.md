@@ -1,9 +1,9 @@
-# ForthWin-Download
+# Forth2020/ ForthWin-Download
 
 The quick installer was disclosed, proceed to install manually. 
 
-Unzip the folder ForthWin.zip   and copy the Forthwin  folder to  C:\   folder  or you can specify another
-drive  , like  D:\FORTHWIN
+Unzip the folder ForthWin.zip   and copy the Forthwin  folder to  C:\FORTHW   folder  or you can specify another
+drive  , like D:\FORTHWIN ,  E:\FORTHWIN  etc
 
 After that  follow this instructions to load the Demos.
 
