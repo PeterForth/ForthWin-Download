@@ -1,9 +1,14 @@
 # Forth2020/ ForthWin-Download
 
-The quick installer was disclosed, proceed to install manually. 
+The quick installer Forth2020_setup.exe  will allow in a single file to install a whole
+Forth system for your PC ! 
 
+Old method :
 Unzip the folder ForthWin.zip   and copy the Forthwin  folder to  C:\FORTHW   folder  or you can specify another
 drive  , like D:\FORTHWIN ,  E:\FORTHWIN  etc
+
+New method, just download  Forth2020_setup.exe  and follow the instructions where to deploy the forth system
+into your drive. All will be handled automatically and in 1 step.
 
 After that  follow this instructions to load the Demos.
 
